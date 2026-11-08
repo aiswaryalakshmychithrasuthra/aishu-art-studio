@@ -1,0 +1,8 @@
+Aishu Art Studio — GitHub Portfolio Starter
+
+PUBLIC SHOWCASE ONLY — no personal databases, app source, tokens, backups, debug APKs or private reference files.
+
+1) Read docs/UPLOAD_TO_GITHUB_MALAYALAM.md
+2) Check screenshots/macos-home.jpg for permission to share pictured subjects.
+3) Extract this ZIP and upload the CONTENTS to a new GitHub repository.
+4) Do not upload the old Mac, Windows or Android ZIP archives publicly before privacy/rights review.
