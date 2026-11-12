@@ -7,6 +7,18 @@
 Aishu Art Studio is a personalised creative sketchbook and content-planning application for artists. It brings together reference images, drawing ideas, work-in-progress notes, captions, calendars and a curated artwork gallery — in a warm, editorial interface designed around the artist's own visual identity.
 
 ![Aishu Art Studio running on macOS](macos-home.jpg)
+## Application Gallery
+
+### Windows — Desktop UI Preview
+![Windows desktop preview](windows-desktop-preview.jpg)
+
+### Android — Home Preview
+![Android home preview](android-home-preview.jpg)
+
+### Android — Art Kitchen Preview
+![Android Art Kitchen preview](android-kitchen-preview.jpg)
+
+*These are UI previews rendered from the application source, not actual device screenshots.*
 
 > **Project status:** The Windows app, native macOS app and Android Pocket V2 have been launched on real devices. Basic idea sync was tested in both directions between Windows and Android, and planner data was verified from Windows to Android. Windows ↔ Mac sync and Mac ↔ Android sync have *not yet been verified on the actual three-device setup*. Direct Android ↔ Google Drive cloud sync is not implemented.
 
